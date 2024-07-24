@@ -1,0 +1,1 @@
+This is a basic user authentication system built with Node.js, Express, EJS, and MongoDB (using Mongoose). It allows users to create accounts, log in, and log out, with passwords securely hashed using bcrypt. JSON Web Tokens (JWT) are used for authentication, and cookies are used to store the JWT on the client side.
